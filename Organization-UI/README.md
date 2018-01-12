@@ -11,8 +11,9 @@ OpenHub: 2.5.0</br>
 
 ## 截图
 
-<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Organization-UI/20180112192510_com.thirtydegreesray.openhub_Organization_Members.png" width = "35%"/>
-<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Organization-UI/20180112194933_com.thirtydegreesray.openhub_Organization_Activity.png" width = "35%"/>
+&nbsp; | &nbsp;
+------------ | -------------
+![20180112192510_com.thirtydegreesray.openhub_Organization_Members.png](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Organization-UI/20180112192510_com.thirtydegreesray.openhub_Organization_Members.png) | ![20180112194933_com.thirtydegreesray.openhub_Organization_Activity.png](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Organization-UI/20180112194933_com.thirtydegreesray.openhub_Organization_Activity.png)
 
 ## 说明
 
