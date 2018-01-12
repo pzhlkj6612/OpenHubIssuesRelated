@@ -1,17 +1,21 @@
 # Global News界面 Tip内容显示问题
+
 记录于2018/1/12</br>
+
 ## 基本信息
+
 Device: Redmi 3S</br>
-ROM: MIUI 9.2.1.0(MALCNEK)</br>
+ROM: MIUI 9.2.1.0 (MALCNEK)</br>
 Android: 6.0.1</br>
 OpenHub: 2.5.0</br>
+
 ## 截图
-<center>
-    <img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112_com.thirtydegreesray.openhub_ENG.png" width = "30%"/>
-    <img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112_com.thirtydegreesray.openhub_CHS.png" width = "30%"/>
-</center>
+
+<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112_com.thirtydegreesray.openhub_ENG.png" width = "35%"/>
+<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112_com.thirtydegreesray.openhub_CHS.png" width = "35%"/>
 
 ## 说明
+
 | 内容 | 问题 |
 | :- | :- |
 | ...or long click item to view available... | 显示不全 |
