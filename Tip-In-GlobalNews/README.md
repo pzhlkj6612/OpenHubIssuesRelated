@@ -11,8 +11,8 @@ OpenHub: 2.5.0</br>
 
 ## 截图
 
-<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112_com.thirtydegreesray.openhub_ENG.png" width = "35%"/>
-<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112_com.thirtydegreesray.openhub_CHS.png" width = "35%"/>
+<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112163018_com.thirtydegreesray.openhub_GlobalNews_ENG.png" width = "35%"/>
+<img src="https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Tip-In-GlobalNews/20180112164530_com.thirtydegreesray.openhub_GlobalNews_CHS.png" width = "35%"/>
 
 ## 说明
 
