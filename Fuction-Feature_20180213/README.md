@@ -66,3 +66,13 @@ https://github.com/ThirtyDegreesRay/OpenHub/issues
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180203003405_com.thirtydegreesray.openhub_NoNewerVersion.png)
 
 当时2.6.0已经出了，但检查不到新版本（小米应用商店当时只有2.5.0），这里的代码如果直接用[GitHub的API](https://developer.github.com/v3/repos/releases/)可能会好一些吧？不懂这个，你检查一下。
+
+----
+
+### ClosedIssues列表不加判断，抓入PR
+
+截图：
+
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213112500_com.thirtydegreesray.openhub_IssuesIncludePR.png)
+
+这个可能得好好折腾下了，因为现在好像还不能浏览某个Repo的PR。
