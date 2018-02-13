@@ -45,7 +45,11 @@ using System.IO
 
 位置：[ZhihuPaper-31567795/README.md at master · pzhlkj6612/ZhihuPaper-31567795](https://github.com/pzhlkj6612/ZhihuPaper-31567795/blob/master/README.md)
 
-示例：[只有`//`](//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)，会直接把链接拼接到当前目录后，然后一般境况下，是一定会404的（但是GitHub上是正常的）。
+示例：
+``` Markdown
+[只有`//`](//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)
+```
+[只有`//`](//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)，会直接把链接拼接到当前目录后，然后一般境况下，是一定会404的（但是GitHub上是正常的）。
 
 截图：
 
