@@ -28,7 +28,7 @@ OpenHub: 2.7.1
 
 ### CSharp代码着色不全
 
-位置：[]()
+位置：[MFC-StringTable-Generator-1/Program.cs at master · pzhlkj6612/MFC-StringTable-Generator-1](https://github.com/pzhlkj6612/MFC-StringTable-Generator-1/blob/master/MFC-StringTable-Generator-1/Program.cs)
 
 示例：
 ``` CSharp
@@ -39,3 +39,24 @@ using System.IO
 
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115026_com.thirtydegreesray.openhub_CSharp-System_IO.png)
 
+### 链接相关
+
+#### 协议影响链接的解析
+
+位置：[ZhihuPaper-31567795/README.md at master · pzhlkj6612/ZhihuPaper-31567795](https://github.com/pzhlkj6612/ZhihuPaper-31567795/blob/master/README.md)
+
+示例：[不带协议和`//`](github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)或者[只有`//`](//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)，都会直接把链接拼接到当前目录后，然后一般境况下，是一定会404的（但是GitHub上是正常的）。
+
+截图：
+
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213134540_com.thirtydegreesray.openhub_404.png)
+
+#### 当前文档内id属性跳转
+
+示例：
+``` Markdown
+[CSharp代码着色不全](//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213#csharp%E4%BB%A3%E7%A0%81%E7%9D%80%E8%89%B2%E4%B8%8D%E5%85%A8)
+```
+[CSharp代码着色不全](//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213#csharp%E4%BB%A3%E7%A0%81%E7%9D%80%E8%89%B2%E4%B8%8D%E5%85%A8)
+
+另外，我注意到[Issue #24](https://github.com/ThirtyDegreesRay/OpenHub/issues/24)提到的应该是类似的问题。
