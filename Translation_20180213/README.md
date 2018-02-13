@@ -14,11 +14,13 @@ OpenHub: 2.7.1
 
 ## 问题
 
-### 检查更新未翻译&用词
+### 检查更新翻译对应有错&用词
 
 截图：
 
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180212225718_com.thirtydegreesray.openhub_Checking-upgrade.png)
+&nbsp; | &nbsp;
+------------ | -------------
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180212225718_com.thirtydegreesray.openhub_Checking-upgrade.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180213172533_com.thirtydegreesray.openhub_Checking-upgrade_Chinese.png)
 
 第一，没翻译，而且提示框的样式也有问题，是不是代码写漏了；
 
