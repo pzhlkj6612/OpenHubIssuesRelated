@@ -34,7 +34,7 @@ OpenHub: 2.7.1
 
 &nbsp; | &nbsp;
 ------------ | -------------
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180213115121_com.thirtydegreesray.openhub_CodeStyle_F.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180213115209_com.thirtydegreesray.openhub_CodeStyle_T.png)
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180213145831_com.thirtydegreesray.openhub_Forks_Out.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180213145835_com.thirtydegreesray.openhub_Forks_In.png)
 
 首先，这是“Forks”，英文界面翻译没问题，再结合[issuecomment-360036095 - Repo README-cn.md 小问题 · Issue #46 · ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub/issues/46#issuecomment-360036095)，就应该是“分叉”；
 
