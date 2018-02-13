@@ -38,6 +38,6 @@ OpenHub: 2.7.1
 
 首先，这是“Forks”，英文界面翻译没问题，再结合[issuecomment-360036095 - Repo README-cn.md 小问题 · Issue #46 · ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub/issues/46#issuecomment-360036095)，就应该是“分叉”；
 
-另外，从实际情况上讲，“fork”的确是创建了一条当前项目的“branch”，但这也只是可以这么理解，以“版本库分支”来命名还是不太妥；
+另外，从实际情况上讲，“fork”的确是创建了一条当前项目的“branch”，但也只是这么理解，以“版本库分支”来命名还是不太妥；
 
 再说了，右上角就有“分支”的按钮，对吧。
