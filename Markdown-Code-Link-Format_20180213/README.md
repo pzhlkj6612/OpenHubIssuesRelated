@@ -22,9 +22,9 @@ OpenHub: 2.7.1
 
 截图：
 
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115121_com.thirtydegreesray.openhub_CodeStyle_F.png)
-
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115209_com.thirtydegreesray.openhub_CodeStyle_T.png)
+&nbsp; | &nbsp;
+------------ | -------------
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115121_com.thirtydegreesray.openhub_CodeStyle_F.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115209_com.thirtydegreesray.openhub_CodeStyle_T.png)
 
 ### CSharp代码着色不全
 
