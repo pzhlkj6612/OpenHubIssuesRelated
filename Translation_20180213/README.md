@@ -52,13 +52,13 @@ OpenHub: 2.7.1
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180204161045_com.thirtydegreesray.openhub_SomethingHappenedInARepo.png)
 
 其它的就摘录过来：
-> 发表评论在问题x **user/repo**
-> ...
-> 创建标签tag
-> 关闭问题num在**user/repo**
-> 发布版本ver在**user/repo**
-> 提交到分支branch在**user/repo**
-> 发表评论在**user/repo**的提交中
+> 发表评论在问题x **user/repo**<br/>
+> <br/>
+> 创建标签tag<br/>
+> 关闭问题num在**user/repo**<br/>
+> 发布版本ver在**user/repo**<br/>
+> 提交到分支branch在**user/repo**<br/>
+> 发表评论在**user/repo**的提交中<br/>
 > ...
 
 * 状语该前置就前置嘛，虽然大家都能读懂，但是不舒服啊；
