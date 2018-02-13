@@ -22,7 +22,7 @@ OpenHub: 2.7.1
 ------------ | -------------
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180212225718_com.thirtydegreesray.openhub_Checking-upgrade.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180213172533_com.thirtydegreesray.openhub_Checking-upgrade_Chinese.png)
 
-第一，没翻译，而且提示框的样式也有问题，是不是代码写漏了；
+第一，对应的string有问题；
 
 第二，这种更新应该是“update”吧。我查了下资料（[Difference Between Update and Upgrade | Difference Between](http://www.differencebetween.net/technology/difference-between-update-and-upgrade/)），对于产品的更新，在词义上，“upgrade”的意思更贴切，但是有这么一句：
 
