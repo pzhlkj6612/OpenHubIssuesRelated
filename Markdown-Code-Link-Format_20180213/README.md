@@ -1,4 +1,4 @@
-# Organization界面 内容显示问题
+# Markdown解析 代码高亮 链接解析 格式问题
 
 记录于2018/2/13
 
@@ -26,6 +26,8 @@ OpenHub: 2.7.1
 ------------ | -------------
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115121_com.thirtydegreesray.openhub_CodeStyle_F.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115209_com.thirtydegreesray.openhub_CodeStyle_T.png)
 
+----
+
 ### CSharp代码着色不全
 
 位置：[MFC-StringTable-Generator-1/Program.cs at master · pzhlkj6612/MFC-StringTable-Generator-1](https://github.com/pzhlkj6612/MFC-StringTable-Generator-1/blob/master/MFC-StringTable-Generator-1/Program.cs)
@@ -38,6 +40,8 @@ using System.IO
 截图：
 
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213115026_com.thirtydegreesray.openhub_CSharp-System_IO.png)
+
+----
 
 ### 链接相关
 
