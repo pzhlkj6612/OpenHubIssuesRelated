@@ -51,6 +51,7 @@ OpenHub: 2.7.1
 ### News页面翻译问题
 
 截图：
+
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180204161045_com.thirtydegreesray.openhub_SomethingHappenedInARepo.png)
 
 其它的就摘录过来：
