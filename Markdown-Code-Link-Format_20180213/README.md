@@ -55,7 +55,7 @@ using System.IO
 ```
 https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213//github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213
 ```
-，然后一般境况下，是一定会404的。
+一般境况下，是一定会404的。
 
 截图：
 
