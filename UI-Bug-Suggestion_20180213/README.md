@@ -30,7 +30,7 @@ OpenHub: 2.7.1
 
 ##### 滑动会导致首页的某种图片闪烁
 
-截图：
+录屏（实际上录屏是看不到的，这是用合成软件做的，跟我看到的差不多）：
 
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180213211800_com.thirtydegreesray.openhub_BrightnessShake.gif)
 
@@ -68,6 +68,8 @@ OpenHub: 2.7.1
 
 #### Activity的上下文菜单
 
+录屏：
+
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180213193100_com.thirtydegreesray.openhub_ContextMenu-ListSlide.gif)
 
 News页面、个人/团队的Activities页面，长按某一项不松手，出现菜单后依然能滑动列表；
@@ -78,7 +80,7 @@ News页面、个人/团队的Activities页面，长按某一项不松手，出�
 
 #### 有能够被长按控件的（可能）所有的页面会对屏幕显示范围以外的触摸事件进行反馈
 
-截图：
+录屏：
 
 &nbsp; | &nbsp;
 ------------ | -------------
