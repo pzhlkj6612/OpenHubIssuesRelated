@@ -28,6 +28,16 @@ OpenHub: 2.7.1
 
 ----
 
+##### 滑动会导致首页的某种图片闪烁
+
+截图：
+
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180213211800_com.thirtydegreesray.openhub_BrightnessShake.gif)
+
+这个图片在[图片变形（解决的话可能会较困难） - OpenHubIssuesRelated/Picture-Display_20180213 at master · pzhlkj6612/OpenHubIssuesRelated](https://github.com/pzhlkj6612/OpenHubIssuesRelated/tree/master/Picture-Display_20180213#%E5%9B%BE%E7%89%87%E5%8F%98%E5%BD%A2%E8%A7%A3%E5%86%B3%E7%9A%84%E8%AF%9D%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%BE%83%E5%9B%B0%E9%9A%BE)提到过，不知道是不是`<img>`引起的。
+
+----
+
 ##### Issue里过长的Label显示不完整
 
 截图：
@@ -56,6 +66,28 @@ OpenHub: 2.7.1
 
 ----
 
+#### Activity的上下文菜单
+
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180213193100_com.thirtydegreesray.openhub_ContextMenu-ListSlide.gif)
+
+News页面、个人/团队的Activities页面，长按某一项不松手，出现菜单后依然能滑动列表；
+
+其它页面可能也有这样的情况，要细细检查。
+
+----
+
+#### 有能够被长按控件的（可能）所有的页面会对屏幕显示范围以外的触摸事件进行反馈
+
+截图：
+
+&nbsp; | &nbsp;
+------------ | -------------
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180213234400_com.thirtydegreesray.openhub_IncorrctReact_1.gif) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180213234401_com.thirtydegreesray.openhub_IncorrctReact_2.gif)
+
+看图吧。
+
+----
+
 ### Suggestions
 
 #### Repo
@@ -69,3 +101,7 @@ README更新后，重新进入Repo首页不更新（有缓存），也无法手�
 ##### 无法手动更新任何单独打开的文档
 
 无论是代码还是图片，都无法手动刷新；当然，**这个也可以不做**，意义不大。
+
+----
+
+#### 文档加载完成后会回到
