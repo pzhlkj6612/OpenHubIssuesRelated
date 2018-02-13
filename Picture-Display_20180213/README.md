@@ -22,7 +22,7 @@ OpenHub: 2.7.1
 ``` html
 <img src="banner.png" alt="Xamarin.Forms banner" height="145" >
 ```
-<img src="banner.png" alt="Xamarin.Forms banner" height="145" >
+<img src="https://github.com/xamarin/Xamarin.Forms/blob/master/banner.png" alt="Xamarin.Forms banner" height="145" >
 
 由于原图是1600x256，我手机的分辨率是1280x720，横竖都不够，所以图片被强制拉伸，变形了；当然，单独查看图片时没有问题。
 
