@@ -25,8 +25,10 @@ OpenHub: 2.7.1
 1. “未安装邮件客户端”，这个提示所在位置，英文版是“Share to”，是不是代码有问题；
 2. “返回第三方工具”，这个没写好；
 3. 这个分享，最终就是把链接直接发过去了，仅仅是在菜单 -`复制链接`这个操作上做了一点延伸。我的建议是，带上当前页面的标题，然后跟链接一起分享过去，就像这样：
-> Issues · ThirtyDegreesRay/OpenHub
-> https://github.com/ThirtyDegreesRay/OpenHub/issues
+```
+Issues · ThirtyDegreesRay/OpenHub
+https://github.com/ThirtyDegreesRay/OpenHub/issues
+```
 
 ----
 

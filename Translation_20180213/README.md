@@ -53,19 +53,12 @@ OpenHub: 2.7.1
 
 其它的就摘录过来：
 > 发表评论在问题x **user/repo**
-
-> 
-
+> ...
 > 创建标签tag
-
 > 关闭问题num在**user/repo**
-
 > 发布版本ver在**user/repo**
-
 > 提交到分支branch在**user/repo**
-
 > 发表评论在**user/repo**的提交中
-
 > ...
 
 * 状语该前置就前置嘛，虽然大家都能读懂，但是不舒服啊；
