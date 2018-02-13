@@ -1,4 +1,4 @@
-# 功能与特性
+# UI
 
 记录于2018/2/13
 
@@ -40,20 +40,6 @@ OpenHub: 2.7.1
 2. [issuecomment-361462934 - News页面语言混乱显示问题 · Issue #49 · ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub/issues/49#issuecomment-361462934)提到的翻译问题依然没有解决。
 
 另外，以后完善PR期间，可以试试能否正确处理[这个PR](https://github.com/kelseyhightower/nocode/pull/1532)的标题啥的。
-
-----
-
-### Commit相关功能的入口覆盖不完全
-
-截图：
-
-&nbsp; | &nbsp; | &nbsp;
------------- | ------------- | -------------
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163847_com.thirtydegreesray.openhub_1_Mousedown.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163939_com.thirtydegreesray.openhub_1_Menu.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/20180213163947_com.thirtydegreesray.openhub_1_Result.png)
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163957_com.thirtydegreesray.openhub_2_Mousedown.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213164050_com.thirtydegreesray.openhub_2_Menu.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213164057_com.thirtydegreesray.openhub_2_Result.png)
-
-1. “Commit”的评论显示不出来；
-2. 如果的确是没做功能，那也可以尽量多地提供信息，第二种情况下，至少可以链接到对应的“Commit”上去。
 
 ----
 

@@ -41,3 +41,21 @@ OpenHub: 2.7.1
 另外，从实际情况上讲，“fork”的确是创建了一条当前项目的“branch”，但也只是这么理解，以“版本库分支”来命名还是不太妥；
 
 再说了，右上角就有“分支”的按钮，对吧。
+
+###
+
+截图：
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Translation_20180213/20180204161045_com.thirtydegreesray.openhub_SomethingHappenedInARepo.png)
+
+其它的就摘录过来：
+> 发表评论在问题x **user/repo**
+> 
+> 创建标签tag
+> 关闭问题num在**user/repo**
+> 发布版本ver在**user/repo**
+> 提交到分支branch在**user/repo**
+> 发表评论在**user/repo**的提交中
+> ...
+
+* 状语该前置就前置嘛，虽然大家都能读懂，但是不舒服啊；
+* 第一条的顺序完全混乱了，英文是“Created comment on Issue x in **user/repo**”
