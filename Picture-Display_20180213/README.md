@@ -41,6 +41,8 @@ OpenHub: 2.7.1
 
 可以的话就加上这一套功能？
 
+----
+
 #### 单独查看图片时会重新加载
 
 位置：[ZhihuPaper-31567795/md4GitHub.md at master · pzhlkj6612/ZhihuPaper-31567795](https://github.com/pzhlkj6612/ZhihuPaper-31567795/blob/master/md4GitHub.md)
