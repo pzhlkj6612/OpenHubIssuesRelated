@@ -47,6 +47,6 @@ OpenHub: 2.7.1
 
 位置：[ZhihuPaper-31567795/md4GitHub.md at master · pzhlkj6612/ZhihuPaper-31567795](https://github.com/pzhlkj6612/ZhihuPaper-31567795/blob/master/md4GitHub.md)
 
-这个网页里有大量的图片（包括GIF），如果打开某图片后再次加载，势必会浪费时间和数据流量，如果能直接用缓存里的，就好得多呢。
+这个md里有大量的图片（包括GIF），如果打开某图片后再次加载，势必会浪费时间和数据流量，如果能直接用缓存里的，就好得多呢。
 
 刚试了下，长按图片复制到的链接和打开图片复制到的链接是相同的，所以在原理上这应该是能做到的。
