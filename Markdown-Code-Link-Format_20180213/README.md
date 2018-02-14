@@ -57,6 +57,8 @@ https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Lin
 ```
 一般境况下，是一定会404的。
 
+GitHub网页端，这种链接能够被正确解析。
+
 截图：
 
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Markdown-Code-Link-Format_20180213/20180213134540_com.thirtydegreesray.openhub_404.png)
