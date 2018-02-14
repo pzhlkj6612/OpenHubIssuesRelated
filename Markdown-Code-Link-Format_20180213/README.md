@@ -70,7 +70,7 @@ GitHub网页端，这种链接能够被正确解析。
 ``` Markdown
 [.](./OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)
 ```
-[.](./OpenHubIssuesRelated/tree/master/Markdown-Code-Link-Format_20180213)，也会出现错误的拼接，看起来对于链接的处理还有较多的问题。
+[只有一个.](.)，也会出现错误的拼接，看起来对于链接的处理还有较多的问题。
 
 ----
 
