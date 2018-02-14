@@ -137,3 +137,27 @@ README更新后，重新进入Repo首页不更新（有缓存），也无法手�
 &nbsp; | &nbsp;
 ------------ | -------------
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180214001502_com.thirtydegreesray.openhub_ContextMenuDisplay_1.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180214001502_com.thirtydegreesray.openhub_ContextMenuDisplay_2.png)
+
+其实可以全部统一到右上角去，就像微信那样。
+
+----
+
+#### 左侧右滑菜单
+
+##### 顶部空余太大
+
+
+
+----
+
+#### “关于”页面
+
+截图及处理后的样子：
+
+&nbsp; | &nbsp;
+------------ | -------------
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180212225927_com.thirtydegreesray.openhub_About-App_1.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180212225927_com.thirtydegreesray.openhub_About-App_2.png)
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180212225927_com.thirtydegreesray.openhub_About-Author_1.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/UI-Bug-Suggestion_20180213/20180212225927_com.thirtydegreesray.openhub_About-Author_2.png)
+
+1. “App信息”那里功能可以合并，上边是“检查更新”，下边是进Repo；
+2. “作者信息”，上边是进你的GitHub主页，下边是你的邮箱。
