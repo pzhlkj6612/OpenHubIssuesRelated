@@ -34,7 +34,7 @@ OpenHub: 2.7.1
 
 示例：
 ``` CSharp
-using System.IO
+using System.IO;
 ```
 
 截图：
