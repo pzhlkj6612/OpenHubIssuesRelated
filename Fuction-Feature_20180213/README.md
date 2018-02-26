@@ -51,7 +51,7 @@ https://github.com/ThirtyDegreesRay/OpenHub/issues
 
 &nbsp; | &nbsp; | &nbsp;
 ------------ | ------------- | -------------
-![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163847_com.thirtydegreesray.openhub_1_Mousedown.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163939_com.thirtydegreesray.openhub_1_Menu.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/20180213163947_com.thirtydegreesray.openhub_1_Result.png)
+![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163847_com.thirtydegreesray.openhub_1_Mousedown.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163939_com.thirtydegreesray.openhub_1_Menu.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163947_com.thirtydegreesray.openhub_1_Result.png)
 ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213163957_com.thirtydegreesray.openhub_2_Mousedown.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213164050_com.thirtydegreesray.openhub_2_Menu.png) | ![](https://github.com/pzhlkj6612/OpenHubIssuesRelated/blob/master/Fuction-Feature_20180213/20180213164057_com.thirtydegreesray.openhub_2_Result.png)
 
 1. “Commit”的评论显示不出来；
